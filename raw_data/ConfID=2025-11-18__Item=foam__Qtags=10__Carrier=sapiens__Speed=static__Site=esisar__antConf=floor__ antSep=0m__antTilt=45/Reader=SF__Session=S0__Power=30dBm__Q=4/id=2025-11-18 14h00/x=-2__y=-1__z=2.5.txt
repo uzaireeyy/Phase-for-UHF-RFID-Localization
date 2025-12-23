@@ -1,0 +1,92 @@
+
+event: mac_event
+id: 0
+data: {"type":"RoundStart","timestamp":1763476002625,"datestamp":"25/11/18 14:26:42.625","seqNum":311371,"inventoryCycleCount":5,"round":71491,"freq_MHz":867.50,"jurisdiction":"EMEA","txAntennaPort":"PORT_1","txExpanderPort":"NONE","transmitSource":"INTERNAL","txPower_dBm":30.00,"rxAntennaConfig":{"antennaPort1":"PORT_1","expanderPort1":"NONE","antennaPort2":"PORT_4","expanderPort2":"NONE"},"validBackchannel":-1}
+
+event: mac_event
+id: 1
+data: {"type":"TagReadData","timestamp":1763476002665,"datestamp":"25/11/18 14:26:42.665","seqNum":311372,"round":71491,"txAntennaPort":"PORT_1","txExpanderPort":"NONE","transmitSource":"INTERNAL","rssi":[-68.78,-86.83],"preambleQuality":3920,"decoderQuality":667766,"vgaValues":[215,164],"numBits":128,"rxPhasors":[[-25504,-20798],[-4280,-28815]],"digitalGain":16.718353,"data":"0x3000AD3830770CCDD0AD383002AD7A2F","alias":"ANT1"}
+
+event: mac_event
+id: 2
+data: {"type":"TagReadData","timestamp":1763476002685,"datestamp":"25/11/18 14:26:42.685","seqNum":311373,"round":71491,"txAntennaPort":"PORT_1","txExpanderPort":"NONE","transmitSource":"INTERNAL","rssi":[-64.04,-85.45],"preambleQuality":7656,"decoderQuality":843805,"vgaValues":[221,164],"numBits":128,"rxPhasors":[[7442,31038],[-1730,17650]],"digitalGain":8.560074,"data":"0x3000AD3830770CCDD0AD383001D9116F","alias":"ANT1"}
+
+event: mac_event
+id: 3
+data: {"type":"RoundStart","timestamp":1763476002705,"datestamp":"25/11/18 14:26:42.705","seqNum":311374,"inventoryCycleCount":5,"round":71492,"freq_MHz":866.90,"jurisdiction":"EMEA","txAntennaPort":"PORT_2","txExpanderPort":"NONE","transmitSource":"INTERNAL","txPower_dBm":30.00,"rxAntennaConfig":{"antennaPort1":"PORT_2","expanderPort1":"NONE","antennaPort2":"PORT_4","expanderPort2":"NONE"},"validBackchannel":-1}
+
+event: mac_event
+id: 4
+data: {"type":"TagReadData","timestamp":1763476002725,"datestamp":"25/11/18 14:26:42.725","seqNum":311375,"round":71492,"txAntennaPort":"PORT_2","txExpanderPort":"NONE","transmitSource":"INTERNAL","rssi":[-80.28,-92.95],"preambleQuality":2610,"decoderQuality":270200,"vgaValues":[221,172],"numBits":128,"rxPhasors":[[10822,-10961],[32190,4670]],"digitalGain":25.109573,"data":"0x3000AD3830770CCDD0AD38300247264B","alias":"ANT2"}
+
+event: mac_event
+id: 5
+data: {"type":"TagReadData","timestamp":1763476002745,"datestamp":"25/11/18 14:26:42.745","seqNum":311376,"round":71492,"txAntennaPort":"PORT_2","txExpanderPort":"NONE","transmitSource":"INTERNAL","rssi":[-77.85,-86.20],"preambleQuality":4630,"decoderQuality":382938,"vgaValues":[221,168],"numBits":128,"rxPhasors":[[-333,-11367],[-26873,-17496]],"digitalGain":14.154633,"data":"0x3000AD3830770CCDD0AD38300250449D","alias":"ANT2"}
+
+event: mac_event
+id: 6
+data: {"type":"RoundStart","timestamp":1763476002745,"datestamp":"25/11/18 14:26:42.745","seqNum":311377,"inventoryCycleCount":5,"round":71493,"freq_MHz":866.30,"jurisdiction":"EMEA","txAntennaPort":"PORT_3","txExpanderPort":"NONE","transmitSource":"INTERNAL","txPower_dBm":30.00,"rxAntennaConfig":{"antennaPort1":"PORT_3","expanderPort1":"NONE","antennaPort2":"PORT_4","expanderPort2":"NONE"},"validBackchannel":-1}
+
+event: mac_event
+id: 7
+data: {"type":"TagReadData","timestamp":1763476002765,"datestamp":"25/11/18 14:26:42.765","seqNum":311378,"round":71493,"txAntennaPort":"PORT_3","txExpanderPort":"NONE","transmitSource":"INTERNAL","rssi":[-70.83,-82.85],"preambleQuality":4532,"decoderQuality":721427,"vgaValues":[221,160],"numBits":128,"rxPhasors":[[1424,25790],[-12003,-29153]],"digitalGain":14.460709,"data":"0x3000AD3830770CCDD0AD38300250449D","alias":"ANT3"}
+
+event: mac_event
+id: 8
+data: {"type":"TagReadData","timestamp":1763476002785,"datestamp":"25/11/18 14:26:42.785","seqNum":311379,"round":71493,"txAntennaPort":"PORT_3","txExpanderPort":"NONE","transmitSource":"INTERNAL","rssi":[-69.30,-91.47],"preambleQuality":3692,"decoderQuality":560285,"vgaValues":[215,172],"numBits":128,"rxPhasors":[[-30488,-8778],[22250,-15302]],"digitalGain":17.750809,"data":"0x3000AD3830770CCDD0AD38300247264B","alias":"ANT3"}
+
+event: mac_event
+id: 9
+data: {"type":"TagReadData","timestamp":1763476002805,"datestamp":"25/11/18 14:26:42.805","seqNum":311380,"round":71493,"txAntennaPort":"PORT_3","txExpanderPort":"NONE","transmitSource":"INTERNAL","rssi":[-77.54,-87.87],"preambleQuality":3117,"decoderQuality":340481,"vgaValues":[221,164],"numBits":128,"rxPhasors":[[-6865,-14886],[32767,-2166]],"digitalGain":21.025345,"data":"0x3000AD3830770CCDD0AD383002AD7A2F","alias":"ANT3"}
+
+event: mac_event
+id: 10
+data: {"type":"TagReadData","timestamp":1763476002825,"datestamp":"25/11/18 14:26:42.825","seqNum":311381,"round":71493,"txAntennaPort":"PORT_3","txExpanderPort":"NONE","transmitSource":"INTERNAL","rssi":[-73.55,-85.03],"preambleQuality":4321,"decoderQuality":498983,"vgaValues":[221,164],"numBits":128,"rxPhasors":[[-17723,6081],[30166,-9540]],"digitalGain":15.166855,"data":"0x3000AD3830770CCDD0AD383002DF24FA","alias":"ANT3"}
+
+event: mac_event
+id: 11
+data: {"type":"RoundStart","timestamp":1763476002826,"datestamp":"25/11/18 14:26:42.826","seqNum":311382,"inventoryCycleCount":5,"round":71494,"freq_MHz":865.70,"jurisdiction":"EMEA","txAntennaPort":"PORT_4","txExpanderPort":"NONE","transmitSource":"INTERNAL","txPower_dBm":30.00,"rxAntennaConfig":{"antennaPort1":"PORT_4","expanderPort1":"NONE","antennaPort2":"PORT_3","expanderPort2":"NONE"},"validBackchannel":-1}
+
+event: mac_event
+id: 12
+data: {"type":"RoundStart","timestamp":1763476002865,"datestamp":"25/11/18 14:26:42.865","seqNum":311383,"inventoryCycleCount":6,"round":71495,"freq_MHz":867.50,"jurisdiction":"EMEA","txAntennaPort":"PORT_1","txExpanderPort":"NONE","transmitSource":"INTERNAL","txPower_dBm":30.00,"rxAntennaConfig":{"antennaPort1":"PORT_1","expanderPort1":"NONE","antennaPort2":"PORT_2","expanderPort2":"NONE"},"validBackchannel":-1}
+
+event: mac_event
+id: 13
+data: {"type":"TagReadData","timestamp":1763476002885,"datestamp":"25/11/18 14:26:42.885","seqNum":311384,"round":71495,"txAntennaPort":"PORT_1","txExpanderPort":"NONE","transmitSource":"INTERNAL","rssi":[-79.57,-87.49],"preambleQuality":3255,"decoderQuality":342176,"vgaValues":[226,164],"numBits":128,"rxPhasors":[[-12614,-5487],[-32698,-3453]],"digitalGain":20.133942,"data":"0x3000AD3830770CCDD0AD38300250449D","alias":"ANT1"}
+
+event: mac_event
+id: 14
+data: {"type":"TagReadData","timestamp":1763476002886,"datestamp":"25/11/18 14:26:42.886","seqNum":311385,"round":71495,"txAntennaPort":"PORT_1","txExpanderPort":"NONE","transmitSource":"INTERNAL","rssi":[-69.30,-86.38],"preambleQuality":3699,"decoderQuality":649709,"vgaValues":[215,164],"numBits":128,"rxPhasors":[[-31537,-6095],[-7087,31191]],"digitalGain":17.717209,"data":"0x3000AD3830770CCDD0AD3830028B3E8B","alias":"ANT1"}
+
+event: mac_event
+id: 15
+data: {"type":"TagReadData","timestamp":1763476002925,"datestamp":"25/11/18 14:26:42.925","seqNum":311386,"round":71495,"txAntennaPort":"PORT_1","txExpanderPort":"NONE","transmitSource":"INTERNAL","rssi":[-74.26,-90.76],"preambleQuality":2739,"decoderQuality":491129,"vgaValues":[226,168],"numBits":128,"rxPhasors":[[-27337,-12694],[27073,17012]],"digitalGain":23.926971,"data":"0x3000AD3830770CCDD0AD383003064D9F","alias":"ANT1"}
+
+event: mac_event
+id: 16
+data: {"type":"TagReadData","timestamp":1763476002926,"datestamp":"25/11/18 14:26:42.926","seqNum":311387,"round":71495,"txAntennaPort":"PORT_1","txExpanderPort":"NONE","transmitSource":"INTERNAL","rssi":[-64.73,-89.18],"preambleQuality":7840,"decoderQuality":815633,"vgaValues":[226,164],"numBits":128,"rxPhasors":[[8129,30753],[-193,-11590]],"digitalGain":8.359177,"data":"0x3000AD3830770CCDD0AD383001D9116F","alias":"ANT1"}
+
+event: mac_event
+id: 17
+data: {"type":"TagReadData","timestamp":1763476002945,"datestamp":"25/11/18 14:26:42.945","seqNum":311388,"round":71495,"txAntennaPort":"PORT_1","txExpanderPort":"NONE","transmitSource":"INTERNAL","rssi":[-68.41,-89.58],"preambleQuality":4090,"decoderQuality":504484,"vgaValues":[215,164],"numBits":128,"rxPhasors":[[-28106,-14526],[19236,5103]],"digitalGain":16.023468,"data":"0x3000AD3830770CCDD0AD383002AD7A2F","alias":"ANT1"}
+
+event: mac_event
+id: 18
+data: {"type":"RoundStart","timestamp":1763476002946,"datestamp":"25/11/18 14:26:42.946","seqNum":311389,"inventoryCycleCount":6,"round":71496,"freq_MHz":866.90,"jurisdiction":"EMEA","txAntennaPort":"PORT_2","txExpanderPort":"NONE","transmitSource":"INTERNAL","txPower_dBm":30.00,"rxAntennaConfig":{"antennaPort1":"PORT_2","expanderPort1":"NONE","antennaPort2":"PORT_1","expanderPort2":"NONE"},"validBackchannel":-1}
+
+event: mac_event
+id: 19
+data: {"type":"TagReadData","timestamp":1763476002965,"datestamp":"25/11/18 14:26:42.965","seqNum":311390,"round":71496,"txAntennaPort":"PORT_2","txExpanderPort":"NONE","transmitSource":"INTERNAL","rssi":[-76.54,-81.61],"preambleQuality":5227,"decoderQuality":444029,"vgaValues":[221,160],"numBits":128,"rxPhasors":[[1542,-11216],[-30875,7842]],"digitalGain":12.537964,"data":"0x3000AD3830770CCDD0AD38300250449D","alias":"ANT2"}
+
+event: mac_event
+id: 20
+data: {"type":"TagReadData","timestamp":1763476002985,"datestamp":"25/11/18 14:26:42.985","seqNum":311391,"round":71496,"txAntennaPort":"PORT_2","txExpanderPort":"NONE","transmitSource":"INTERNAL","rssi":[-81.15,-75.23],"preambleQuality":3942,"decoderQuality":366811,"vgaValues":[221,140],"numBits":128,"rxPhasors":[[-7623,3931],[32767,-624]],"digitalGain":16.625061,"data":"0x3000AD3830770CCDD0AD38300247264B","alias":"ANT2"}
+
+event: mac_event
+id: 21
+data: {"type":"RoundStart","timestamp":1763476003005,"datestamp":"25/11/18 14:26:43.005","seqNum":311392,"inventoryCycleCount":6,"round":71497,"freq_MHz":866.30,"jurisdiction":"EMEA","txAntennaPort":"PORT_3","txExpanderPort":"NONE","transmitSource":"INTERNAL","txPower_dBm":30.00,"rxAntennaConfig":{"antennaPort1":"PORT_3","expanderPort1":"NONE","antennaPort2":"PORT_1","expanderPort2":"NONE"},"validBackchannel":-1}
+
+event: mac_event
+id: 22
+data: {"type":"TagReadData","timestamp":1763476003025,"datestamp":"25/11/18 14:26:43.025","seqNum":311393,"round":71497,"txAntennaPort":"PORT_3","txExpanderPort":"NONE","transmitSource":"INTERNAL","rssi":[-72.86,-71.54],"preambleQuality":6027,"decoderQuality":651887,"vgaValues":[221,140],"numBits":128,"rxPhasors":[[-14115,3854],[15315,-27777]],"digitalGain":10.873734,"data":"0x3000AD3830770CCDD0AD383001D9116F","alias":"ANT3"}
