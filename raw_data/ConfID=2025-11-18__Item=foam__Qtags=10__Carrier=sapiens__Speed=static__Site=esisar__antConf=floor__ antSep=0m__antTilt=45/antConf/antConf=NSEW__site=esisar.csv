@@ -1,0 +1,5 @@
+﻿Antenna;x;y;z;direction
+PORT_1;0;0;0;SW
+PORT_2;0;0;0;NW
+PORT_3;0;0;0;NE
+PORT_4;0;0;0;SE
